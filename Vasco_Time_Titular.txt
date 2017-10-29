@@ -1,0 +1,12 @@
+"NumCamisaTitularVasco","NomeCamisaTitularVasco","idadeVasco"
+"1",1,"Martín Silva",9
+"2",2,"Madson",26
+"3",3,"Paulão",10
+"4",4,"Anderson Martins",29
+"5",5,"Ramon",39
+"6",6,"Jean",20
+"7",7,"Wellington",52
+"8",8,"Yago Pikachu",40
+"9",9,"Nenê",38
+"10",10,"Mateus Vital",25
+"11",11,"André Rios",11
